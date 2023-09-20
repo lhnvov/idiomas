@@ -10,7 +10,7 @@ A ty? - E voce? - singular
 
 Sim e nao
 da - sim
-net (niyet) - não
+net - Нет - (niyet) - não
 
 A а - pronunciado /a/ como em "azul"
 Е е - pronunciado /je/ como em "iemanjá"
@@ -45,3 +45,33 @@ TaKoe - tal
 бегемот - hipopótamo
 мода - moda
 сода - bicarbonato de sódio
+
+З з - pronunciado /z/ como em zoológico
+Л л - pronunciado /l/ como em lagoa
+П п - pronunciado /p/ como em pato
+И и - pronunciado /i:/ como em "pitanga"
+Й й - pronunciado /j/ como em "ioga"
+
+зима - (zima) inverno
+липа - tília
+папа - (papa) pai
+пазл - quebra-cabeça
+ил - (il) - lodo
+йога - ioga
+Отлично! (Otlichno!)
+идиот - Idiota
+лампа - lâmpada
+кексик - bolinho
+
+👍 да (da) - sim
+✋ нет (net) - não
+   спасибо (spasibo) (O no final = /a/) - obrigado(a)
+   пожалуйста / pozhalujsta - de nada
+
+дом, лампа, жаба
+casa, lâmpada, sapo
+
+
+
+
+
